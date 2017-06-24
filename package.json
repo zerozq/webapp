@@ -1,0 +1,22 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "description": "angualr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerozq/webapp.git"
+  },
+  "keywords": [
+    "angualr"
+  ],
+  "author": "zerozq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zerozq/webapp/issues"
+  },
+  "homepage": "https://github.com/zerozq/webapp#readme"
+}
